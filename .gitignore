@@ -1,160 +1,161 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+One or more repositories in this DMCA takedown notice has been processed in accordance with GitHub’s prohibition on sharing unauthorized product licensing keys, software for generating unauthorized product licensing keys, and/or software for bypassing checks for product licensing keys.
+You can learn more in [GitHub’s Acceptable Use Policies](https://docs.github.com/en/github/site-policy/github-acceptable-use-policies).
 
-# C extensions
-*.so
+---
 
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+While GitHub did not find sufficient information to determine a valid anti-circumvention claim, we determined that this takedown notice contains other valid copyright claim(s).
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+---
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+**Are you the copyright holder or authorized to act on the copyright owner's behalf?**
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
+Yes, I am authorized to act on the copyright owner's behalf.
 
-# Translations
-*.mo
-*.pot
+**Are you submitting a revised DMCA notice after GitHub Trust & Safety requested you make changes to your original notice?**
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+No
 
-# Flask stuff:
-instance/
-.webassets-cache
+**Does your claim involve content on GitHub or npm.js?**
 
-# Scrapy stuff:
-.scrapy
+GitHub
 
-# Sphinx documentation
-docs/_build/
+**Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-# PyBuilder
-.pybuilder/
-target/
+Authorized to act on owner's behalf as member of [private].
 
-# Jupyter Notebook
-.ipynb_checkpoints
+**Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-# IPython
-profile_default/
-ipython_config.py
+Discord Nitro is a subscription that unlocks access to several premium perks on Discord’s service, such as custom emoji and stickers anywhere, increased file sharing capacity, HD video streaming, and a limited number of free Server Boosts.
+https://support.discord.com/hc/en-us/articles/115000435108-What-are-Nitro-Nitro-Basic-
 
-# pyenv
-#   For a library or package, you might want to ignore these files since the code is
-#   intended to run in multiple environments; otherwise, check them in:
-# .python-version
+**What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
 
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
+https://github.com/Tenclea/YANG  
+https://github.com/Catatomik/Discord-Nitro-Gen-Checker  
+https://github.com/shitkoder/Discord-Nitro  
+https://github.com/9P9/Nitro-Generator  
+https://github.com/ObsidianCrew/obsidian  
+https://github.com/crvwxlf/NitroGen  
+https://github.com/Sobhan-SRZA/Nitro-Generator-Bot  
+https://github.com/kenyhnrv/nitro-generator  
+https://github.com/TWIST-X7/Nitro-Generator  
+https://github.com/Sobhan-SRZA/Nitro-Generator  
+https://github.com/AvalancheDiscord/GlobyGenerator  
+https://github.com/brick-y/-CRACKED-Paid-Nitro-gen-Tropical-Nitro-Generator-cracked-free  
+https://github.com/Pikachu973/PikaGen  
+https://github.com/ArticOff/nitrogen  
+https://github.com/anonieX/discordNitroSniper  
+https://github.com/cutieQue/Discord-Nitro-Generator-Checker  
+https://github.com/avianhere/DiscordGenerator  
+https://github.com/mrawsky/NitroGen  
+https://github.com/Omerli-Faruk/discord-nitro-generator  
+https://github.com/Salty-Coder/NGEN  
+https://github.com/loulou867/DIscord-Nitro-Generator-Checker-Python  
+https://github.com/Rayan1635/RNitroGenerator  
+https://github.com/tungdo0602/Nitro-Generator  
+https://github.com/SolarStudio/NX-Gen  
+https://github.com/lassejlv/nitro-generator  
+https://github.com/Tayzzz/Discord-Nitro-Generator  
+https://github.com/buibaohoang06/axynitro-discord-nitro-bruteforcer  
+https://github.com/Jakee8718/Discord-Nitro-Generator-and-Checker  
+https://github.com/Ghost-Man001/NitroGenerator00  
+https://github.com/HeySkidee/Discord-Nitro-Codes-Generator  
+https://github.com/hujiles/Discord-Nitro-Generator  
+https://github.com/Baltr4/Discord-nitro-gen  
+https://github.com/Ghost-Man001/FastNitroSniper  
+https://github.com/LightMode00/Nitro-Generator  
+https://github.com/Kafusz/Nitro-Generator
 
-# poetry
-#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
-#   This is especially recommended for binary packages to ensure reproducibility, and is more
-#   commonly ignored for libraries.
-#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
-#poetry.lock
+**Do you claim to have any technological measures in place to control access to your copyrighted content? Please see our <a href="https://docs.github.com/articles/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology">Complaints about Anti-Circumvention Technology</a> if you are unsure.**
 
-# pdm
-#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
-#pdm.lock
-#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
-#   in version control.
-#   https://pdm.fming.dev/#use-with-ide
-.pdm.toml
+Yes
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
-__pypackages__/
+**What technological measures do you have in place and how do they effectively control access to your copyrighted material?**
 
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
+We use codes as licensing keys. Providing a valid code unlocks Discord Nitro and allows access to subscription features not available on the free version of Discord, such as the ability to stream in higher quality and use emoji and stickers across different servers.
 
-# SageMath parsed files
-*.sage.py
+**How is the accused project designed to circumvent your technological protection measures?**
 
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+The project(s) is software for generating unauthorized product licensing keys. It randomly generates codes that meet the criteria for valid Discord Nitro codes, allowing individuals to create unauthorized keys to the software features.
 
-# Spyder project settings
-.spyderproject
-.spyproject
+**<a href="https://docs.github.com/articles/dmca-takedown-policy#b-what-about-forks-or-whats-a-fork">Have you searched for any forks</a> of the allegedly infringing files or repositories? Each fork is a distinct repository and must be identified separately if you believe it is infringing and wish to have it taken down.**
 
-# Rope project settings
-.ropeproject
+https://github.com/BoltOP7625/YANG-BY-LYT  
+https://github.com/MineTurtlee/YANG  
+https://github.com/NanduWasTaken/YANG  
+https://github.com/am-523/YANG  
+https://github.com/bimantaraz/Nitro-generator-arm64  
+https://github.com/CallMeBurb2/Nitro-Gen-And-Checker  
+https://github.com/Danspotnytool/YANG  
+https://github.com/Demons-dev/YANG  
+https://github.com/Fontom71/NitroValidator  
+https://github.com/Hsr167/YANG  
+https://github.com/ItssName/YANG  
+https://github.com/jtkblue/YANG  
+https://github.com/legendlife/YANG  
+https://github.com/Lu-lnx/YANG  
+https://github.com/maq77/DiscordNitro  
+https://github.com/Meregobrrr/bens  
+https://github.com/Salmdu2/YANG  
+https://github.com/ScottsplaysSus/YANG-Scottsplays  
+https://github.com/Shazeb5656/YANG  
+https://github.com/ShitHubHumanWare/YANGautobuild  
+https://github.com/sonofescobar1337/YANG  
+https://github.com/Trithourren/YANG  
+https://github.com/ukbharatha/YANG  
+https://github.com/UltimateKing0283/YANG  
+https://github.com/vasudev1443/YANG  
+https://github.com/WynXC/YANG  
+https://github.com/ZacK00234/Discord-Nitro-Gen-Checker  
+https://github.com/AaronProxd/Discord-Nitro  
+https://github.com/DavidAck2006/Discord-Nitro-Generator  
+https://github.com/Nichokas/Discord-Nitro  
+https://github.com/PUTONA7040300/Discord-Nitro  
+https://github.com/SALAH121343/Discord-Nitro  
+https://github.com/Killaship/obsidianhack  
+https://github.com/mallkorebit/obsidian  
+https://github.com/rtfmoz2/obsidian  
+https://github.com/KOalayk/NitroGen  
+https://github.com/Morkiller007/NitroGen  
+https://github.com/shervinbdndev/Discord-Nitro-Genarator-py  
+https://github.com/bocca-creator/Discord-Nitro-Genarator-py  
+https://github.com/PurpIe-dragonman/Nitro-Generator-Bot  
+https://github.com/YamuzBey/Nitro-Generator-Bot  
+https://github.com/Serenity-Softworks/nitro-generator  
+https://github.com/sheluvrecoil/Nitro-Generator  
+https://github.com/iTsSobhan/Discord-Nitro-Generator  
+https://github.com/xSweatifyy/Nitro-Generator-1  
+https://github.com/aditeyapatakoti/PikaGen  
+https://github.com/xocamy/PikaGen  
+https://github.com/Elpouletto/nitrogen  
+https://github.com/I2rys/Discord-Nitro-Generator-Checker  
+https://github.com/shainodev/DiscordGenerator  
+https://github.com/YoutacRandS-VA/NGEN  
+https://github.com/maly4444/Nitro-Generator  
+https://github.com/Adoniss-M/nitro-gen  
 
-# mkdocs documentation
-/site
+**Is the work licensed under an open source license?**
 
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
+No
 
-# Pyre type checker
-.pyre/
+**What would be the best solution for the alleged infringement?**
 
-# pytype static type analyzer
-.pytype/
+Reported content must be removed
 
-# Cython debug symbols
-cython_debug/
+**Do you have the alleged infringer’s contact information? If so, please provide it.**
 
-# PyCharm
-#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
-#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
-#  and can be added to the global gitignore or merged into this file.  For a more nuclear
-#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
-#.idea/
+**I have a good faith belief that use of the copyrighted materials described above on the infringing web pages is not authorized by the copyright owner, or its agent, or the law.**
+
+**I have taken <a href="https://www.lumendatabase.org/topics/22">fair use</a> into consideration.**
+
+**I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or am authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.**
+
+**I have read and understand GitHub's <a href="https://docs.github.com/articles/guide-to-submitting-a-dmca-takedown-notice/">Guide to Submitting a DMCA Takedown Notice</a>.**
+
+**So that we can get back to you, please provide either your telephone number or physical address.**
+
+[private]., [private], [private], [private]
+
+**Please type your full legal name below to sign this request.**
+
+[private]
